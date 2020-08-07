@@ -1,0 +1,13 @@
+C:\Users\Brandon\Desktop\Build your own website!\bin\Debug\netcoreapp3.1\Build your own website!.exe
+C:\Users\Brandon\Desktop\Build your own website!\bin\Debug\netcoreapp3.1\Build your own website!.deps.json
+C:\Users\Brandon\Desktop\Build your own website!\bin\Debug\netcoreapp3.1\Build your own website!.runtimeconfig.json
+C:\Users\Brandon\Desktop\Build your own website!\bin\Debug\netcoreapp3.1\Build your own website!.runtimeconfig.dev.json
+C:\Users\Brandon\Desktop\Build your own website!\bin\Debug\netcoreapp3.1\Build your own website!.dll
+C:\Users\Brandon\Desktop\Build your own website!\bin\Debug\netcoreapp3.1\Build your own website!.pdb
+C:\Users\Brandon\Desktop\Build your own website!\obj\Debug\netcoreapp3.1\Build your own website!.csprojAssemblyReference.cache
+C:\Users\Brandon\Desktop\Build your own website!\obj\Debug\netcoreapp3.1\Build your own website!.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Desktop\Build your own website!\obj\Debug\netcoreapp3.1\Build your own website!.AssemblyInfoInputs.cache
+C:\Users\Brandon\Desktop\Build your own website!\obj\Debug\netcoreapp3.1\Build your own website!.AssemblyInfo.cs
+C:\Users\Brandon\Desktop\Build your own website!\obj\Debug\netcoreapp3.1\Build your own website!.dll
+C:\Users\Brandon\Desktop\Build your own website!\obj\Debug\netcoreapp3.1\Build your own website!.pdb
+C:\Users\Brandon\Desktop\Build your own website!\obj\Debug\netcoreapp3.1\Build your own website!.genruntimeconfig.cache
